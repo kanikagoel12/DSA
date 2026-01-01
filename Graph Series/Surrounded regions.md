@@ -1,4 +1,4 @@
-# Rotting Oranges 🍊
+# Surrounded Regions
 
 🔗 **LeetCode Problem Link:**  
 https://leetcode.com/problems/surrounded-regions/

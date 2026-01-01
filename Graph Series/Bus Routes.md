@@ -1,4 +1,4 @@
-# Rotting Oranges 🍊
+# Bus Routes
 
 🔗 **LeetCode Problem Link:**
 https://leetcode.com/problems/bus-routes/
