@@ -28,4 +28,5 @@ add_executable(DSA Trie/trie.cpp
         "Heap/ Min Heap to Max Heap.cpp"
         "Heap/Kth Largest Element in an Array.cpp"
         "Heap/k sorted array.cpp"
-        "Heap/Merge k Sorted Lists.cpp")
+        "Heap/Merge k Sorted Lists.cpp"
+        "Heap/Task Scheduling.cpp")
