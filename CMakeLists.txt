@@ -22,4 +22,10 @@ add_executable(DSA Trie/trie.cpp
         "Sliding Window/MaxConsecutiveOnes3.cpp"
         "Sliding Window/FruitsIntoBaskets.cpp"
         "Sliding Window/NiceSubarray.cpp"
-        "Sliding Window/NumberofSubstringsContainingAllThreeCharacters .cpp")
+        "Sliding Window/NumberofSubstringsContainingAllThreeCharacters .cpp"
+        Heap/Heap_Implementation.cpp
+        Heap/Check_if_an_array_represents_a_max_heap.cpp
+        "Heap/ Min Heap to Max Heap.cpp"
+        "Heap/Kth Largest Element in an Array.cpp"
+        "Heap/k sorted array.cpp"
+        "Heap/Merge k Sorted Lists.cpp")
