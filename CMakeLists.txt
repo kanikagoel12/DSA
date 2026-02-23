@@ -17,4 +17,9 @@ add_executable(DSA Trie/trie.cpp
         "Sliding Window/LongestRepeatingCharacterReplacement.cpp"
         "Sliding Window/DietPlanPerformance.cpp"
         "Sliding Window/BinarySubarrayWithSumK.cpp"
-        "Sliding Window/PermutationInStrings.cpp")
+        "Sliding Window/PermutationInStrings.cpp"
+        "Graph Series/Algorithms/Kruskal.cpp"
+        "Sliding Window/MaxConsecutiveOnes3.cpp"
+        "Sliding Window/FruitsIntoBaskets.cpp"
+        "Sliding Window/NiceSubarray.cpp"
+        "Sliding Window/NumberofSubstringsContainingAllThreeCharacters .cpp")
