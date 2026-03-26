@@ -32,4 +32,11 @@ add_executable(DSA Trie/trie.cpp
         "Heap/Task Scheduling.cpp"
         Heap/MinimumNumberOfRefuelingStops.cpp
         "Heap/Maximum Performance of a Team.cpp"
-        "Graph Series/Algorithms/Dijikstra.cpp")
+        "Graph Series/Algorithms/Dijikstra.cpp"
+        "Graph Series/Algorithms/BellmanFord .cpp"
+        "Heap/Hand of Straights.cpp"
+        "HackWithInfy/MSS with K swaps.cpp"
+        "HackWithInfy/Query(Easy).cpp"
+        HackWithInfy/GoodSubarray.cpp
+        Recursion/stoi.cpp
+        Recursion/pow.cpp)
