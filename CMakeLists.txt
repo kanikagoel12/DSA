@@ -39,4 +39,5 @@ add_executable(DSA Trie/trie.cpp
         "HackWithInfy/Query(Easy).cpp"
         HackWithInfy/GoodSubarray.cpp
         Recursion/stoi.cpp
-        Recursion/pow.cpp)
+        Recursion/pow.cpp
+        "Recursion/count good numbers.cpp")
