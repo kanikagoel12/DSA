@@ -40,4 +40,9 @@ add_executable(DSA Trie/trie.cpp
         HackWithInfy/GoodSubarray.cpp
         Recursion/stoi.cpp
         Recursion/pow.cpp
-        "Recursion/count good numbers.cpp")
+        "Recursion/count good numbers.cpp"
+        "Recursion/Combination Sum.cpp"
+        "Recursion/Combination Sum 2.cpp"
+        "Recursion/Combination Sum 3.cpp"
+        "Recursion/Subset 1.cpp"
+        "Recursion/Subset 2.cpp")
