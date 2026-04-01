@@ -45,4 +45,6 @@ add_executable(DSA Trie/trie.cpp
         "Recursion/Combination Sum 2.cpp"
         "Recursion/Combination Sum 3.cpp"
         "Recursion/Subset 1.cpp"
-        "Recursion/Subset 2.cpp")
+        "Recursion/Subset 2.cpp"
+        "Recursion/Letter Combinations Of Phone Number.cpp"
+        "Recursion/Generate Paranthesis.cpp")
