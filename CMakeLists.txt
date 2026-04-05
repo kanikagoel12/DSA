@@ -50,4 +50,5 @@ add_executable(DSA Trie/trie.cpp
         "Recursion/Generate Paranthesis.cpp"
         "Recursion/N Queens.cpp"
         "Recursion/Rat in a Maze.cpp"
-        "Recursion/word break.cpp")
+        "Recursion/word break.cpp"
+        "Recursion/M colouring Problem.cpp")
