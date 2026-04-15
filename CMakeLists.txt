@@ -51,4 +51,6 @@ add_executable(DSA Trie/trie.cpp
         "Recursion/N Queens.cpp"
         "Recursion/Rat in a Maze.cpp"
         "Recursion/word break.cpp"
-        "Recursion/M colouring Problem.cpp")
+        "Recursion/M colouring Problem.cpp"
+        "Dynamic Programming/House Robber 2.cpp"
+        "Dynamic Programming/Geek's Training.cpp")
