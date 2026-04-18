@@ -54,4 +54,8 @@ add_executable(DSA Trie/trie.cpp
         "Recursion/M colouring Problem.cpp"
         "Dynamic Programming/House Robber 2.cpp"
         "Dynamic Programming/Geek's Training.cpp"
-        "HackWithInfy/Food Stamps.cpp")
+        "HackWithInfy/Food Stamps.cpp"
+        "Stack and Queues/implement stack using array.cpp"
+        "Stack and Queues/implement queue using array.cpp"
+        "Graph Series/Cheapest Flight Within K Stops.cpp"
+        "Graph Series/Network Delay Time.cpp")

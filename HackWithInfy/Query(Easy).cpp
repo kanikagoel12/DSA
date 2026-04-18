@@ -43,3 +43,52 @@ using namespace std;
 //    cout<<res;
 //}
 
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<long long> A(n);
+
+    for (int i=0;i<n;i++) cin>>A[i];
+
+    int q;
+    cin>>q;
+
+    vector<long long> B(n+1,0);
+    vector<long long> C(n+1,0);
+
+    while (q--)
+    {
+        int l,r,x,y;
+        cin>>l>>r>>x>>y;
+
+        long long constant = x - 1LL*l*y;
+
+        B[l] += constant;
+        B[r+1] -= constant;
+
+        C[l] += y;
+        C[r+1] -= y;
+    }
+
+    for (int i=1;i<n;i++)
+    {
+        B[i] += B[i-1];
+        C[i] += C[i-1];
+    }
+
+    long long sum = 0;
+    const long long MOD = 1e9+7;
+
+    for (int i=0;i<n;i++)
+    {
+        A[i] = B[i] + C[i]*i;
+        sum = (sum + A[i]) % MOD;
+    }
+
+    cout<<sum<<endl;
+
+    return 0;
+}
